@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+canvas {
+    display: block;
+    margin: 100px auto 0;
+    background: lightskyblue;
+}
+
+.rule {
+    text-align: center;
+    font-size: .8em;
+    color: rgba(255, 0, 0, 0.5);
+    user-select: none;
+}
